@@ -61,7 +61,6 @@ This project was developed by a team of 5 students at ESI-SBA (4th year, 2nd Cyc
 
 ---
 
-## 📸 Demo & Images
 
 ## 🎥 Demo Video
 
