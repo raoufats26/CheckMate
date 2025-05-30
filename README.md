@@ -64,7 +64,13 @@ This project was developed by a team of 5 students at ESI-SBA (4th year, 2nd Cyc
 ## 📸 Demo & Images
 
 ## 🎥 Demo Video
-[Watch Demo](./assets/demo.mp4)
+
+Check out a short demo of **CheckMate – Smart RFID-Based Attendance System**:
+
+▶️ [Watch on YouTube](https://www.youtube.com/shorts/EYMCx4xnWsI)
+
+[![Watch the demo](https://img.youtube.com/vi/EYMCx4xnWsI/hqdefault.jpg)](https://www.youtube.com/shorts/EYMCx4xnWsI)
+
 
 
 ---
